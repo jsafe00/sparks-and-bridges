@@ -1,0 +1,1117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP School Calendar\n"
+"POT-Creation-Date: 2020-08-22 17:37+0700\n"
+"PO-Revision-Date: 2020-03-22 13:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: WP School Calendar <support@wpschoolcalendar.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: config\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: wp-school-calendar.php\n"
+"X-Poedit-SearchPathExcluded-0: includes/freemius\n"
+
+#: config/plugin-settings.php:37 includes/widget.php:13
+msgid "Dates to Remember"
+msgstr ""
+
+#: config/plugin-settings.php:70 includes/functions.php:576
+msgid "School Calendar"
+msgstr ""
+
+#: config/plugin-settings.php:110
+msgid "School Year"
+msgstr ""
+
+#: config/plugin-settings.php:115
+msgid "Filters"
+msgstr ""
+
+#: config/plugin-settings.php:120
+msgid "Important Date Category"
+msgstr ""
+
+#: config/plugin-settings.php:125
+msgid "Apply Filters"
+msgstr ""
+
+#: config/plugin-settings.php:130
+msgid "Download iCal"
+msgstr ""
+
+#: config/plugin-settings.php:135
+msgid "Download PDF"
+msgstr ""
+
+#: config/plugin-settings.php:140
+msgid "Subscribe"
+msgstr ""
+
+#: config/plugin-settings.php:145
+msgid "Calendar Subscription"
+msgstr ""
+
+#: config/plugin-settings.php:150
+msgid ""
+"Use this subscription link to download and view all the importand dates in "
+"your own personal calendar (Google Calendar, Outlook or Apple Calendar)."
+msgstr ""
+
+#: config/plugin-settings.php:161
+msgid "Copy URL"
+msgstr ""
+
+#: includes/admin/categories.php:37 includes/admin/categories.php:48
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/categories.php:74 includes/admin/categories.php:121
+#: includes/admin/categories.php:128 includes/admin/categories.php:165
+#: includes/post-type.php:174
+msgid "Name"
+msgstr ""
+
+#: includes/admin/categories.php:80 includes/admin/categories.php:122
+#: includes/admin/categories.php:129 includes/admin/categories.php:169
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/categories.php:86 includes/admin/school-year.php:104
+#: includes/admin/settings.php:358
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/categories.php:103
+msgid "Available Categories"
+msgstr ""
+
+#: includes/admin/categories.php:111 includes/admin/school-year.php:129
+msgid "Bulk Action"
+msgstr ""
+
+#: includes/admin/categories.php:112 includes/admin/categories.php:145
+#: includes/admin/school-year.php:130 includes/admin/school-year.php:167
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/categories.php:114 includes/admin/school-year.php:132
+msgid "Apply"
+msgstr ""
+
+#: includes/admin/categories.php:143 includes/admin/school-year.php:165
+#: includes/post-type.php:70
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/categories.php:161 includes/admin/categories.php:173
+msgid "Add Category"
+msgstr ""
+
+#: includes/admin/categories.php:235 includes/admin/categories.php:274
+msgid "Please, provide a category name and background color."
+msgstr ""
+
+#: includes/admin/functions.php:150
+msgid "General Events"
+msgstr ""
+
+#: includes/admin/getting-started.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/getting-started.php:46
+msgid "Welcome to WP School Calendar"
+msgstr ""
+
+#: includes/admin/getting-started.php:48
+msgid ""
+"Thank you for using WP School Calendar, a powerful and easy-to-use WordPress "
+"plugin to create school calendar. Our goal is to help you create beautiful "
+"responsive school calendar for your school website in minutes without hiring "
+"a graphic designer."
+msgstr ""
+
+#: includes/admin/getting-started.php:54
+msgid "Live Demo"
+msgstr ""
+
+#: includes/admin/getting-started.php:55
+msgid ""
+"Check out the WP School Calendar live demo to see the powerful features of "
+"WP School Calendar."
+msgstr ""
+
+#: includes/admin/getting-started.php:56
+msgid "See Live Demo"
+msgstr ""
+
+#: includes/admin/getting-started.php:60
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/getting-started.php:61
+msgid ""
+"Check out the WP School Calendar documentation to learn how to create your "
+"first school calendar."
+msgstr ""
+
+#: includes/admin/getting-started.php:62
+msgid "See Documentation"
+msgstr ""
+
+#: includes/admin/getting-started.php:68
+msgid "What is WP School Calendar"
+msgstr ""
+
+#: includes/admin/getting-started.php:72
+msgid ""
+"WP School Calendar is simple and responsive school calendar plugin for "
+"WordPress. You can use this plugin to create school calendar automatically "
+"and show it on your school website."
+msgstr ""
+
+#: includes/admin/getting-started.php:74
+msgid ""
+"It is very easy to use WP School Calendar. You only need to add important "
+"dates on the calendar when the activities or events will be held in the "
+"school, such as:"
+msgstr ""
+
+#: includes/admin/getting-started.php:77
+msgid "Registration for new students."
+msgstr ""
+
+#: includes/admin/getting-started.php:78
+msgid "Orientation period for new students."
+msgstr ""
+
+#: includes/admin/getting-started.php:79
+msgid "First and last day of courses."
+msgstr ""
+
+#: includes/admin/getting-started.php:80
+msgid "Mid and final term examination."
+msgstr ""
+
+#: includes/admin/getting-started.php:81
+msgid "Results publication date."
+msgstr ""
+
+#: includes/admin/getting-started.php:82
+msgid "School holiday period."
+msgstr ""
+
+#: includes/admin/getting-started.php:83
+msgid "Or other important dates."
+msgstr ""
+
+#: includes/admin/getting-started.php:86
+msgid "Then the calendar will be displayed on the page that you specify."
+msgstr ""
+
+#: includes/admin/getting-started.php:88
+msgid "Why WP School Calendar"
+msgstr ""
+
+#: includes/admin/getting-started.php:90
+msgid ""
+"Over the years, we found that creating the school calendar is very difficult "
+"and not everyone can do that because they don't have skill in graphic "
+"designing. You have to hiring a graphic designer to create school calendar "
+"for your school website. So we started to develop WP School Calendar with "
+"simple goal to take the pain out of creating school calendar and make it "
+"easy."
+msgstr ""
+
+#: includes/admin/getting-started.php:92
+msgid "Features"
+msgstr ""
+
+#: includes/admin/getting-started.php:94
+msgid "Here are main features of WP School Calendar:"
+msgstr ""
+
+#: includes/admin/getting-started.php:97
+msgid "Supports single and multiple day important date"
+msgstr ""
+
+#: includes/admin/getting-started.php:98
+msgid "Categorized important dates"
+msgstr ""
+
+#: includes/admin/getting-started.php:99
+msgid "Custom colors for each important dates"
+msgstr ""
+
+#: includes/admin/getting-started.php:100
+msgid "Customize start / end of the school calendar"
+msgstr ""
+
+#: includes/admin/getting-started.php:101
+msgid "Various options for month format"
+msgstr ""
+
+#: includes/admin/getting-started.php:102
+msgid "Various options for weekday format"
+msgstr ""
+
+#: includes/admin/getting-started.php:103
+msgid "Various options for date format"
+msgstr ""
+
+#: includes/admin/getting-started.php:104
+msgid "Ability to show tooltip on important dates (Pro version)"
+msgstr ""
+
+#: includes/admin/getting-started.php:105
+msgid "Ability to show past and upcoming school calendars (Pro version)"
+msgstr ""
+
+#: includes/admin/getting-started.php:106
+msgid "Ability to export school calendar into PDF format (Pro version)"
+msgstr ""
+
+#: includes/admin/getting-started.php:107
+msgid "Ability to export school calendar to iCalendar format (Pro version)"
+msgstr ""
+
+#: includes/admin/getting-started.php:108
+msgid "Ability to add school calendar to Google Calendar (Pro version)"
+msgstr ""
+
+#: includes/admin/getting-started.php:109
+msgid ""
+"Custom language text support and includes POT file for further customization"
+msgstr ""
+
+#: includes/admin/getting-started.php:112
+msgid "Display Calendar on Your Site"
+msgstr ""
+
+#: includes/admin/getting-started.php:114
+msgid ""
+"To begin, you will need to create a new WordPress page or edit an existing "
+"one. Once, you have opened the editor, you can add a new block by clicking "
+"the + (plus) icon in the upper left corner."
+msgstr ""
+
+#: includes/admin/getting-started.php:118
+msgid ""
+"Once you have clicked this icon, a menu of block options will display. To "
+"locate the WP School Calendar block, you can search WP School Calendar or "
+"open the Widgets category. Then click the block named WP School Calendar."
+msgstr ""
+
+#: includes/admin/getting-started.php:122
+msgid ""
+"This will add the WP School Calendar block to the editor screen. You can now "
+"publish the page and visit your website to see your calendar in action."
+msgstr ""
+
+#: includes/admin/getting-started.php:124
+msgid ""
+"You can also use shortcode to display calendar on your site. All you will "
+"need to do is add <code>[wp_school_calendar]</code> to any page or post."
+msgstr ""
+
+#: includes/admin/getting-started.php:126
+#, php-format
+msgid ""
+"The next step, go to <a href=\"%s\">School Calendar &gt; Settings</a> to "
+"change the appearance of your calendar and <a href=\"%s\">School Calendar "
+"&gt; Important Dates</a> to add some important dates to your calendar."
+msgstr ""
+
+#: includes/admin/getting-started.php:128
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/admin/getting-started.php:130
+msgid ""
+"Do you have a question about WP School Calendar? See the list below for our "
+"most frequently asked questions. If your question is not listed here, then "
+"please contact us."
+msgstr ""
+
+#: includes/admin/getting-started.php:132
+msgid "Who should use WP School Calendar?"
+msgstr ""
+
+#: includes/admin/getting-started.php:134
+msgid ""
+"WP School Calendar is perfect for education websites. If you want to create "
+"a school or university website, then you need to use WP School Calendar."
+msgstr ""
+
+#: includes/admin/getting-started.php:136
+msgid "What's required to use WP School Calendar?"
+msgstr ""
+
+#: includes/admin/getting-started.php:138
+msgid ""
+"WP School Calendar is a WordPress Plugin. In order to use WP School "
+"Calendar, you must have a self-hosted WordPress site. That's all."
+msgstr ""
+
+#: includes/admin/getting-started.php:140
+msgid "Do I need coding skills to use WP School Calendar?"
+msgstr ""
+
+#: includes/admin/getting-started.php:142
+msgid ""
+"Absolutely not. You can create and manage school calendar without any coding "
+"knowledge."
+msgstr ""
+
+#: includes/admin/getting-started.php:144
+msgid "Will WP School Calendar slow down my website?"
+msgstr ""
+
+#: includes/admin/getting-started.php:146
+msgid ""
+"Absolutely not. WP School Calendar is carefully built with performance in "
+"mind. We have developed everything with best practices and modern standards "
+"to ensure things run smooth and fast."
+msgstr ""
+
+#: includes/admin/getting-started.php:148
+msgid "Does WP School Calendar work on non-WordPress sites?"
+msgstr ""
+
+#: includes/admin/getting-started.php:150
+msgid ""
+"No. WP School Calendar is a WordPress plugin, so it will NOT work on sites "
+"that do not use WordPress. Additionally, WP School Calendar is not "
+"compatible with the WordPress.com platform. You must be using a self-hosted "
+"version of WordPress to utilize WP School Calendar."
+msgstr ""
+
+#: includes/admin/getting-started.php:152
+msgid "Can I use WP School Calendar on client sites?"
+msgstr ""
+
+#: includes/admin/getting-started.php:154
+msgid ""
+"Absolutely. You can use WP School Calendar Pro on your client sites. You can "
+"purchase Single Site License for each client sites or Multi-Site License for "
+"some clients."
+msgstr ""
+
+#: includes/admin/getting-started.php:156
+msgid "Do your plugin work with mobile devices?"
+msgstr ""
+
+#: includes/admin/getting-started.php:158
+msgid ""
+"WP School Calendar display beautifully on mobile devices. The plugin is "
+"specifically designed to be \"mobile responsive\", allowing your plugin to "
+"automatically adapt to any mobile device on the market."
+msgstr ""
+
+#: includes/admin/getting-started.php:160
+msgid "Can your plugin be used in different languages?"
+msgstr ""
+
+#: includes/admin/getting-started.php:162
+msgid ""
+"Yes. WP School Calendar has full translation and localization support via "
+"the \"wp-school-calendar\" textdomain. All .mo and .po translation files "
+"should go into the languages folder in the base of the plugin."
+msgstr ""
+
+#: includes/admin/getting-started.php:164
+msgid "Do you provide Demo Site?"
+msgstr ""
+
+#: includes/admin/getting-started.php:166
+#, php-format
+msgid ""
+"Yes. You can look the demo page <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:37
+msgid "Date Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:38 includes/post-type.php:177
+msgid "Category"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:41
+msgid "Additional Notes"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:66 includes/admin/school-year.php:82
+#: includes/admin/school-year.php:140 includes/admin/school-year.php:149
+#: includes/admin/school-year.php:195 includes/post-type.php:175
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:73 includes/admin/school-year.php:89
+#: includes/admin/school-year.php:141 includes/admin/school-year.php:150
+#: includes/admin/school-year.php:200 includes/post-type.php:176
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:80
+msgid "Weekend Options"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:82
+msgid "Exclude weekends from this date range."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:105
+msgid "Select Category"
+msgstr ""
+
+#: includes/admin/school-year.php:37 includes/admin/school-year.php:48
+msgid "School Years"
+msgstr ""
+
+#: includes/admin/school-year.php:74 includes/admin/school-year.php:139
+#: includes/admin/school-year.php:148 includes/admin/school-year.php:189
+msgid "Year Name"
+msgstr ""
+
+#: includes/admin/school-year.php:78 includes/admin/school-year.php:192
+msgid "Example: 2019 / 2020"
+msgstr ""
+
+#: includes/admin/school-year.php:96 includes/admin/school-year.php:142
+#: includes/admin/school-year.php:151
+msgid "Status"
+msgstr ""
+
+#: includes/admin/school-year.php:100 includes/admin/school-year.php:206
+msgid "Enable School Year"
+msgstr ""
+
+#: includes/admin/school-year.php:121
+msgid "Available School Years"
+msgstr ""
+
+#: includes/admin/school-year.php:173
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/school-year.php:173
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/school-year.php:185 includes/admin/school-year.php:209
+msgid "Add School Year"
+msgstr ""
+
+#: includes/admin/school-year.php:271 includes/admin/school-year.php:331
+msgid "Please, provide Year Name and Start/End Date."
+msgstr ""
+
+#: includes/admin/school-year.php:275 includes/admin/school-year.php:335
+msgid "Please, provide valid Year Name."
+msgstr ""
+
+#: includes/admin/school-year.php:285 includes/admin/school-year.php:288
+#: includes/admin/school-year.php:345 includes/admin/school-year.php:348
+msgid "Please, provide valid End Date, maximum of 15 months from Start Date."
+msgstr ""
+
+#: includes/admin/settings.php:37 includes/admin/settings.php:65
+msgid "Calendar Settings"
+msgstr ""
+
+#: includes/admin/settings.php:37
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/settings.php:58
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings.php:59
+msgid "Calendar Navigation"
+msgstr ""
+
+#: includes/admin/settings.php:60
+msgid "Tooltip"
+msgstr ""
+
+#: includes/admin/settings.php:61
+msgid "PDF Settings"
+msgstr ""
+
+#: includes/admin/settings.php:89
+msgid "Default School Year"
+msgstr ""
+
+#: includes/admin/settings.php:96
+msgid "This option determines default school year of your school calendar."
+msgstr ""
+
+#: includes/admin/settings.php:100
+msgid "Default Category"
+msgstr ""
+
+#: includes/admin/settings.php:107
+msgid "This option determines default category of important date."
+msgstr ""
+
+#: includes/admin/settings.php:111
+msgid "Calendar Display"
+msgstr ""
+
+#: includes/admin/settings.php:118
+msgid "This option determines the number of columns."
+msgstr ""
+
+#: includes/admin/settings.php:122
+msgid "Weekday"
+msgstr ""
+
+#: includes/admin/settings.php:129
+msgid "Choose the days that the students go to school."
+msgstr ""
+
+#: includes/admin/settings.php:133
+msgid "Day Format"
+msgstr ""
+
+#: includes/admin/settings.php:140
+msgid "This option determines the format of day name."
+msgstr ""
+
+#: includes/admin/settings.php:144
+msgid "Date Format"
+msgstr ""
+
+#: includes/admin/settings.php:151
+msgid "This option determines date format of important date."
+msgstr ""
+
+#: includes/admin/settings.php:155
+msgid "Include Year"
+msgstr ""
+
+#: includes/admin/settings.php:158
+msgid "Check this if you would like to display year in important date."
+msgstr ""
+
+#: includes/admin/settings.php:162
+msgid "Important Date Heading Text"
+msgstr ""
+
+#: includes/admin/settings.php:168
+msgid "External Color Style"
+msgstr ""
+
+#: includes/admin/settings.php:171
+msgid ""
+"Check this if you would like to use external color style for important date."
+msgstr ""
+
+#: includes/admin/settings.php:175
+msgid "School Calendar Credit"
+msgstr ""
+
+#: includes/admin/settings.php:178
+msgid ""
+"Check this if you would like to display \"Powered by WP School Calendar\" in "
+"your calendar."
+msgstr ""
+
+#: includes/admin/settings.php:189
+msgid "Navigation Display"
+msgstr ""
+
+#: includes/admin/settings.php:192
+msgid "Display School Year Navigation"
+msgstr ""
+
+#: includes/admin/settings.php:194
+msgid "Display Filter Navigation"
+msgstr ""
+
+#: includes/admin/settings.php:196
+msgid "Display Download PDF Navigation"
+msgstr ""
+
+#: includes/admin/settings.php:198
+msgid "Display Download iCal Navigation"
+msgstr ""
+
+#: includes/admin/settings.php:200
+msgid "Display Subscribe Navigation"
+msgstr ""
+
+#: includes/admin/settings.php:204
+msgid "School Year Heading Text"
+msgstr ""
+
+#: includes/admin/settings.php:210
+msgid "Filter Navigation Text"
+msgstr ""
+
+#: includes/admin/settings.php:216
+msgid "Category Heading Text"
+msgstr ""
+
+#: includes/admin/settings.php:222
+msgid "Apply Filter Button Text"
+msgstr ""
+
+#: includes/admin/settings.php:228
+msgid "iCal Navigation Text"
+msgstr ""
+
+#: includes/admin/settings.php:234
+msgid "PDF Navigation Text"
+msgstr ""
+
+#: includes/admin/settings.php:240
+msgid "Subscribe Navigation Text"
+msgstr ""
+
+#: includes/admin/settings.php:246
+msgid "Subscribe Heading Text"
+msgstr ""
+
+#: includes/admin/settings.php:252
+msgid "Subscribe Description Text"
+msgstr ""
+
+#: includes/admin/settings.php:258
+msgid "Subscribe Categories"
+msgstr ""
+
+#: includes/admin/settings.php:268
+msgid "Copy URL Button Text"
+msgstr ""
+
+#: includes/admin/settings.php:279
+msgid "Tooltip Theme"
+msgstr ""
+
+#: includes/admin/settings.php:286
+msgid "This option determines tooltip theme of important date."
+msgstr ""
+
+#: includes/admin/settings.php:290
+msgid "Tooltip Trigger"
+msgstr ""
+
+#: includes/admin/settings.php:297
+msgid "This option determines tooltip trigger of important date."
+msgstr ""
+
+#: includes/admin/settings.php:301
+msgid "Tooltip Animation"
+msgstr ""
+
+#: includes/admin/settings.php:308
+msgid "This option determines tooltip animation of important date."
+msgstr ""
+
+#: includes/admin/settings.php:317
+msgid "Calendar Heading Text"
+msgstr ""
+
+#: includes/admin/settings.php:323
+msgid "Image/Logo"
+msgstr ""
+
+#: includes/admin/settings.php:331
+msgid "Choose Image"
+msgstr ""
+
+#: includes/admin/settings.php:331
+msgid "Select Image"
+msgstr ""
+
+#: includes/admin/settings.php:332 includes/post-type.php:82
+msgid "Remove Image"
+msgstr ""
+
+#: includes/admin/settings.php:338
+msgid "File Name"
+msgstr ""
+
+#: includes/admin/settings.php:349
+msgid "Calendar Page"
+msgstr ""
+
+#: includes/admin/settings.php:363
+msgid "PRO Feature"
+msgstr ""
+
+#: includes/admin/settings.php:364
+msgid ""
+"We're sorry, these settings is not available on your plan. Please upgrade to "
+"the PRO plan to unlock all these awesome features."
+msgstr ""
+
+#: includes/admin/settings.php:365
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/functions.php:356
+msgid "Short (Example: 11/30)"
+msgstr ""
+
+#: includes/functions.php:357
+msgid "Medium (Example: Nov 30)"
+msgstr ""
+
+#: includes/functions.php:358
+msgid "Long (Example: November 30)"
+msgstr ""
+
+#: includes/functions.php:359
+msgid "Short Alt (Example: 30/11)"
+msgstr ""
+
+#: includes/functions.php:360
+msgid "Medium Alt (Example: 30 Nov)"
+msgstr ""
+
+#: includes/functions.php:361
+msgid "Long Alt (Example: 30 November)"
+msgstr ""
+
+#: includes/functions.php:969
+msgid "No Events"
+msgstr ""
+
+#: includes/functions.php:987
+msgid "cont"
+msgstr ""
+
+#: includes/functions.php:1259 includes/functions.php:1269
+#: includes/functions.php:1275
+msgid "Download Calendar"
+msgstr ""
+
+#: includes/functions.php:1332
+msgid "Clear Filters"
+msgstr ""
+
+#: includes/functions.php:1553
+#, php-format
+msgid "Powered by <a href=\"%s\" target=\"_blank\">WP School Calendar</a>"
+msgstr ""
+
+#: includes/functions.php:1587
+msgid "No Important Date"
+msgstr ""
+
+#: includes/functions.php:1888
+msgid "Borderless"
+msgstr ""
+
+#: includes/functions.php:1889
+msgid "Light"
+msgstr ""
+
+#: includes/functions.php:1890
+msgid "Noir"
+msgstr ""
+
+#: includes/functions.php:1891
+msgid "Punk"
+msgstr ""
+
+#: includes/functions.php:1892
+msgid "Shadow"
+msgstr ""
+
+#: includes/functions.php:1898
+msgid "Fade"
+msgstr ""
+
+#: includes/functions.php:1899
+msgid "Grow"
+msgstr ""
+
+#: includes/functions.php:1900
+msgid "Swing"
+msgstr ""
+
+#: includes/functions.php:1901
+msgid "Slide"
+msgstr ""
+
+#: includes/functions.php:1902
+msgid "Fall"
+msgstr ""
+
+#: includes/functions.php:1915
+msgid "Hover"
+msgstr ""
+
+#: includes/functions.php:1916
+msgid "Click"
+msgstr ""
+
+#: includes/functions.php:1929
+msgid "Two Columns Calendar"
+msgstr ""
+
+#: includes/functions.php:1930
+msgid "Three Columns Calendar"
+msgstr ""
+
+#: includes/functions.php:1931
+msgid "Four Columns Calendar"
+msgstr ""
+
+#: includes/functions.php:1944
+msgid "One Letter"
+msgstr ""
+
+#: includes/functions.php:1945
+msgid "Three Letter"
+msgstr ""
+
+#: includes/functions.php:1946
+msgid "Full Name"
+msgstr ""
+
+#: includes/pdf.php:27
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/post-type.php:65 includes/post-type.php:73
+msgid "Important Dates"
+msgstr ""
+
+#: includes/post-type.php:66
+msgid "Important Date"
+msgstr ""
+
+#: includes/post-type.php:67
+msgctxt "Admin menu name"
+msgid "School Calendar"
+msgstr ""
+
+#: includes/post-type.php:68
+msgid "Add New Date"
+msgstr ""
+
+#: includes/post-type.php:69
+msgid "Add New Important Date"
+msgstr ""
+
+#: includes/post-type.php:71
+msgid "Edit Important Date"
+msgstr ""
+
+#: includes/post-type.php:72
+msgid "New Important Date"
+msgstr ""
+
+#: includes/post-type.php:74 includes/post-type.php:75
+msgid "View Important Date"
+msgstr ""
+
+#: includes/post-type.php:76
+msgid "Search Important Date"
+msgstr ""
+
+#: includes/post-type.php:77
+msgid "No important date found"
+msgstr ""
+
+#: includes/post-type.php:78
+msgid "No important date found in trash"
+msgstr ""
+
+#: includes/post-type.php:79
+msgid "Parent Important Date"
+msgstr ""
+
+#: includes/post-type.php:80
+msgid "Featured Image"
+msgstr ""
+
+#: includes/post-type.php:81
+msgid "Set Featured Image"
+msgstr ""
+
+#: includes/post-type.php:83
+msgid "Use as Featured Image"
+msgstr ""
+
+#: includes/post-type.php:84
+msgid "Insert into Important Date"
+msgstr ""
+
+#: includes/post-type.php:85
+msgid "Uploaded to this important date"
+msgstr ""
+
+#: includes/post-type.php:86
+msgid "Filter important date"
+msgstr ""
+
+#: includes/post-type.php:87
+msgid "Important date navigation"
+msgstr ""
+
+#: includes/post-type.php:88
+msgid "important date list"
+msgstr ""
+
+#: includes/post-type.php:90
+msgid ""
+"This is where you can add new important date that you can use in your "
+"WordPress site."
+msgstr ""
+
+#: includes/post-type.php:155
+msgid "Enter title here"
+msgstr ""
+
+#: includes/post-type.php:287 includes/post-type.php:290
+msgid "Important date updated."
+msgstr ""
+
+#: includes/post-type.php:288
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/post-type.php:289
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/post-type.php:291
+#, php-format
+msgid "Important date restored to revision from %s"
+msgstr ""
+
+#: includes/post-type.php:292
+msgid "Important date published."
+msgstr ""
+
+#: includes/post-type.php:293
+msgid "Important date saved."
+msgstr ""
+
+#: includes/post-type.php:294
+msgid "Important date submitted."
+msgstr ""
+
+#: includes/post-type.php:295
+#, php-format
+msgid "Important date scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/post-type.php:295
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/post-type.php:296
+msgid "Important date draft updated."
+msgstr ""
+
+#: includes/post-type.php:313
+#, php-format
+msgid "%s important date updated."
+msgid_plural "%s important date updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post-type.php:314
+#, php-format
+msgid "%s important date not updated, somebody is editing it."
+msgid_plural "%s important date not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post-type.php:315
+#, php-format
+msgid "%s important date permanently deleted."
+msgid_plural "%s important date permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post-type.php:316
+#, php-format
+msgid "%s important date moved to the Trash."
+msgid_plural "%s important date moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post-type.php:317
+#, php-format
+msgid "%s important date restored from the Trash."
+msgid_plural "%s important date restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post-type.php:353
+msgid "All Categories"
+msgstr ""
+
+#: includes/widget.php:23
+msgctxt "Widget"
+msgid "Display important dates."
+msgstr ""
+
+#: includes/widget.php:30
+msgctxt "Widget"
+msgid "Important Dates"
+msgstr ""
+
+#: includes/widget.php:60
+msgid "No Important Dates"
+msgstr ""
+
+#: includes/widget.php:79
+msgid "Show Calendar"
+msgstr ""
+
+#: includes/widget.php:116
+msgctxt "Widget"
+msgid "Title:"
+msgstr ""
+
+#: includes/widget.php:122
+msgctxt "Widget"
+msgid "Number of Events:"
+msgstr ""
+
+#: includes/widget.php:128
+msgctxt "Widget"
+msgid "Date Format:"
+msgstr ""
+
+#: includes/widget.php:139
+msgctxt "Widget"
+msgid "Show Year"
+msgstr ""
+
+#: wp-school-calendar.php:267 wp-school-calendar.php:284
+msgid "Loading..."
+msgstr ""
+
+#: wp-school-calendar.php:268
+msgid "Choose"
+msgstr ""
+
+#: wp-school-calendar.php:269
+msgid "Are you sure want to delete this item?"
+msgstr ""
+
+#: wp-school-calendar.php:416
+msgid "Loading"
+msgstr ""
