@@ -789,11 +789,11 @@ function wpsc_get_calendar_content( $school_year_id = '', $settings = array() )
     echo  '</div>' ;
     // Powered by "WP School Calendar"
     
-    if ( 'Y' === wpsc_settings_value( 'credit' ) ) {
-        echo  '<div class="wpsc-credit">' ;
-        printf( __( 'Powered by <a href="%s" target="_blank">WP School Calendar</a>', 'wp-school-calendar' ), 'https://wpschoolcalendar.com' );
-        echo  '</div>' ;
-    }
+    // if ( 'Y' === wpsc_settings_value( 'credit' ) ) {
+    //     echo  '<div class="wpsc-credit">' ;
+    //     printf( __( 'Powered by <a href="%s" target="_blank">WP School Calendar</a>', 'wp-school-calendar' ), 'https://wpschoolcalendar.com' );
+    //     echo  '</div>' ;
+    // }
     
     // Important Date Categories
     $important_date_categories = array();

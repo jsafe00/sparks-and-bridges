@@ -562,7 +562,7 @@ p.um-notice.warning a {
 .um-field-radio-option {
 	margin: 0px 0px 0px 36px;
 	line-height: 24px;
-	color: #888 !important;
+	color: #ffffff !important;
 	display: block;
 }
 
@@ -724,7 +724,7 @@ a.um-button:hover {
 
 a.um-link-alt {
 	line-height: 22px;
-	color: #888 !important;
+	color: #ffffff !important;
 	display: block !important;
 	text-decoration: none !important;
 	font-weight: normal;

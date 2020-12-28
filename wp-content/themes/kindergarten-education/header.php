@@ -87,11 +87,11 @@
                 <a href="javascript:void(0)" class="closebtn responsive-menu" onclick="kindergarten_education_responsive_menu_close()"><i class="<?php echo esc_attr(get_theme_mod('kindergarten_education_responsive_menu_close_icon','fas fa-times')); ?>"></i><span class="screen-reader-text"><?php esc_html_e('Close Menu','kindergarten-education'); ?></span></a>
               </div>
             </div>
-            <div class="col-lg-1 col-md-1 col-6">
+            <!-- <div class="col-lg-1 col-md-1 col-6">
               <div class="search-box">
                 <button type="button" data-toggle="modal" data-target="#myModal"><i class="<?php echo esc_attr(get_theme_mod('kindergarten_education_search_icon','fa fa-search')); ?>"></i></button>
               </div>
-            </div>
+            </div> -->
           </div>
           <div class="modal fade-in" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog" role="document">
